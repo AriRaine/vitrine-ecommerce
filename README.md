@@ -16,4 +16,4 @@ Interface de vitrine de produtos desenvolvida utilizando somente HTML e CSS, com
 
 ## Observação
 
-Projeto desenvolvido como prática de desenvolvimento frontend.
+Projeto desenvolvido para @TypoFX como prática de desenvolvimento frontend.
